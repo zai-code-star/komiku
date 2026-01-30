@@ -31,30 +31,75 @@ Aplikasi ini menyediakan fitur manajemen komik dengan tampilan sederhana, ringan
 
 ## 🖼️ Tampilan Aplikasi
 
-### Halaman Login
-![Login](assets/screenshots/login.jpg)
+### 🔐 Halaman Login
+<p align="center">
+  <img src="assets/screenshots/login.jpg" width="250"/>
+</p>
 
-### List Komik
-![List Komik](assets/screenshots/list.jpg)
+---
 
-### Menu
-![Login](assets/screenshots/menu.jpg)
+### 🏠 Menu & List Komik
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/screenshots/menu.jpg" width="250"/><br/>
+      <b>Menu</b>
+    </td>
+    <td align="center">
+      <img src="assets/screenshots/list.jpg" width="250"/><br/>
+      <b>List Komik</b>
+    </td>
+  </tr>
+</table>
 
-### Detail Komik
-![Detail Komik](assets/screenshots/detail.jpg)
-![Detail Komik](assets/screenshots/detail2.jpg)
+---
 
-### Kategori Komik
-![Detail Komik](assets/screenshots/kategori.jpg)
+### 📖 Detail Komik
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/screenshots/detail.jpg" width="250"/><br/>
+      <b>Detail Komik</b>
+    </td>
+    <td align="center">
+      <img src="assets/screenshots/detail2.jpg" width="250"/><br/>
+      <b>Informasi Tambahan</b>
+    </td>
+  </tr>
+</table>
 
-### Cari Komik
-![Tambah Komik](assets/screenshots/cari.jpg)
+---
 
-### Tambah Komik
-![Tambah Komik](assets/screenshots/tambah.jpg)
+### 🗂️ Kategori & Pencarian
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/screenshots/kategori.jpg" width="250"/><br/>
+      <b>Kategori Komik</b>
+    </td>
+    <td align="center">
+      <img src="assets/screenshots/cari.jpg" width="250"/><br/>
+      <b>Cari Komik</b>
+    </td>
+  </tr>
+</table>
 
-### Edit Komik
-![Edit Komik](assets/screenshots/edit.jpg)
+---
+
+### ➕ Tambah & Edit Komik
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/screenshots/tambah.jpg" width="250"/><br/>
+      <b>Tambah Komik</b>
+    </td>
+    <td align="center">
+      <img src="assets/screenshots/update.jpg" width="250"/><br/>
+      <b>Edit Komik</b>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
