@@ -31,15 +31,15 @@ Aplikasi ini menyediakan fitur manajemen komik dengan tampilan sederhana, ringan
 
 ## 🖼️ Tampilan Aplikasi
 
-### 🔐 Halaman Login
+### Halaman Login
 <p align="center">
   <img src="assets/screenshots/login.jpg" width="250"/>
 </p>
 
 ---
 
-### 🏠 Menu & List Komik
-<table>
+### Menu & List Komik
+<table align="center">
   <tr>
     <td align="center">
       <img src="assets/screenshots/menu.jpg" width="250"/><br/>
@@ -54,8 +54,8 @@ Aplikasi ini menyediakan fitur manajemen komik dengan tampilan sederhana, ringan
 
 ---
 
-### 📖 Detail Komik
-<table>
+### Detail Komik
+<table align="center">
   <tr>
     <td align="center">
       <img src="assets/screenshots/detail.jpg" width="250"/><br/>
@@ -70,8 +70,8 @@ Aplikasi ini menyediakan fitur manajemen komik dengan tampilan sederhana, ringan
 
 ---
 
-### 🗂️ Kategori & Pencarian
-<table>
+### Kategori & Pencarian
+<table align="center">
   <tr>
     <td align="center">
       <img src="assets/screenshots/kategori.jpg" width="250"/><br/>
@@ -86,8 +86,8 @@ Aplikasi ini menyediakan fitur manajemen komik dengan tampilan sederhana, ringan
 
 ---
 
-### ➕ Tambah & Edit Komik
-<table>
+### Tambah & Edit Komik
+<table align="center">
   <tr>
     <td align="center">
       <img src="assets/screenshots/tambah.jpg" width="250"/><br/>
@@ -105,14 +105,14 @@ Aplikasi ini menyediakan fitur manajemen komik dengan tampilan sederhana, ringan
 
 ## 📦 Download APK
 
-👉 **Download APK di sini:**  
+ **Download APK di sini:**  
 🔗 [Download APK](https://drive.google.com/file/d/16ZfaBJKSyk-MERRo8nK7CPDQWV31qN8O/view?usp=sharing)
 
 > Aktifkan **Install from Unknown Sources** sebelum instalasi APK.
 
 ---
 
-## 🗄️ Database
+## Database
 
 Aplikasi ini menggunakan **SQLite** sebagai database lokal untuk:
 - Menyimpan data user
@@ -121,7 +121,7 @@ Aplikasi ini menggunakan **SQLite** sebagai database lokal untuk:
 
 ---
 
-## 🛠️ Cara Menjalankan Project
+## Cara Menjalankan Project
 
 ```bash
 git clone https://github.com/username/nama-repository.git
