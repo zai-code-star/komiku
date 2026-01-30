@@ -120,11 +120,3 @@ Aplikasi ini menggunakan **SQLite** sebagai database lokal untuk:
 - Digunakan secara **offline** tanpa koneksi internet
 
 ---
-
-## Cara Menjalankan Project
-
-```bash
-git clone https://github.com/username/nama-repository.git
-cd nama-repository
-flutter pub get
-flutter run
