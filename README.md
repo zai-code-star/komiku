@@ -106,7 +106,7 @@ Aplikasi ini menyediakan fitur manajemen komik dengan tampilan sederhana, ringan
 ## 📦 Download APK
 
  **Download APK di sini:**  
-🔗 [Download APK](https://drive.google.com/file/d/16ZfaBJKSyk-MERRo8nK7CPDQWV31qN8O/view?usp=sharing)
+🔗 [Download APK](https://drive.google.com/file/d/172i_P98_MrDSlD69gINShMf1SDZuFAym/view?usp=sharing)
 
 > Aktifkan **Install from Unknown Sources** sebelum instalasi APK.
 
